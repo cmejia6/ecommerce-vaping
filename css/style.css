@@ -12,6 +12,13 @@ header{
 }
 
 /* Navbar */
+
+.site-menu > li {
+  display: inline-block;
+}
+
+
+/* Navbar */
 .site-navbar {
   margin-bottom: 0px;
   z-index: 1999;
