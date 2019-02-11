@@ -17,6 +17,16 @@ header{
   display: inline-block;
 }
 
+/* slider show */
+.owl-carousel{
+  width: 100%;
+  overflow: hidden;
+}
+
+.item{
+  height: 28rem;
+  background-size:cover
+}
 
 /* Navbar */
 .site-navbar {
