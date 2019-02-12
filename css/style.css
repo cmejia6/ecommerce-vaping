@@ -33,7 +33,7 @@ header nav{
 
 }
 
-/* slider show */
+/* Slider */
 .owl-carousel{
   width: 100%;
   overflow: hidden;
@@ -44,9 +44,10 @@ header nav{
   background-size:cover
 }
 
+/*Thumbnails */
 
 .overlap-section {
-  margin-top: -150px;
+  margin-top: -12%;
   position: relative;
   z-index: 9; 
 }
