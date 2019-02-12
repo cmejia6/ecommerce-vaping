@@ -7,8 +7,16 @@ h1, h2, h3, h4, h5,
   font-family: 'Source Serif Pro', serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; 
 }*/
 
-header{
+header a{
+  color: black;
+}
+
+header nav{
   font-family: 'Source Serif Pro', serif;
+}
+
+.navigation-1{
+
 }
 
 /* Navbar */
