@@ -5,6 +5,14 @@ $('.owl-carousel').owlCarousel({
     items: 1,
     autoplay: 1000
 })
+
+$('.owl-carousel-testimonial').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:false,
+    items: 1,
+    autoplay: 1000
+})
 /*var siteCarousel = function () {
     if ( $('.nonloop-block-13').length > 0 ) {
         $('.nonloop-block-13').owlCarousel({
